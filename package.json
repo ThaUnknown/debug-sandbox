@@ -1,7 +1,7 @@
 {
   "name": "debug-sandbox",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Spawns a Node.js sandbox process with an attached debugger to inspect via Chromium.",
   "main": "index.js",
   "bin": {
